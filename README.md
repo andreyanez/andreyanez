@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from Peru</h3>
 
 - 🌱 I’m currently learning **Javascript, Vue and Tailwind**
-- 📫 How to reach me **andre.yanez22@gmail.com**
+- 📫 You can email me at **andre.yanez22@gmail.com**
 
 
 
