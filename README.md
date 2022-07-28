@@ -2,9 +2,6 @@
 <h3 align="center">A frontend developer from Peru</h3>
 
 - 🌱 I’m currently learning **Javascript, Vue and Tailwind**
-
-- 👨‍💻 All of my projects are available at [andreyanez.net](http://www.andreyanez.net/)
-
 - 📫 How to reach me **andre.yanez22@gmail.com**
 
 
