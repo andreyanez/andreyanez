@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript, Vue and Tailwind**
 
-- 👨‍💻 All of my projects are available at [andreyanez.net](andreyanez.net)
+- 👨‍💻 All of my projects are available at [andreyanez.net](http://www.andreyanez.net/)
 
 - 📫 How to reach me **andre.yanez22@gmail.com**
 
