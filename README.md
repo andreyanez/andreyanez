@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Andre</h1>
-<h3 align="center">A frontend developer from Peru</h3>
 
 - 🌱 I’m currently learning **Javascript, Vue and Tailwind**
 - 📫 You can email me at **andre.yanez22@gmail.com**
