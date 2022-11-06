@@ -14,4 +14,4 @@
 
 Software Engineer focused on Web Development, I am motivated by the power of the web as a tool for solving everyday problems.
 
-See [my website](https://shawncharles.com) for more information!
+See [my website](https://andreyanez.netlify.app/) for more information!
