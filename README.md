@@ -42,7 +42,7 @@ See [my website](https://andreyanez.netlify.app/) for more information!
       <h3 align="center">HomeFound</h3>
         <br />
       <a target="_blank" href="http://homefound.vercel.app/">
-            <img src="images/gif2.gif" width="100%"  alt="HomeFound"/>
+            <img src="images/homefound.JPG" width="100%"  alt="HomeFound"/>
         </a>
         <br />
         <p align="center">
