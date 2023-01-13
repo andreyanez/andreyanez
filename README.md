@@ -23,7 +23,7 @@ See [my website](https://andreyanez.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Estify</h3>
         <br />
-        <a target="_blank" href="https://estify.up.railway.app/">
+        <a target="_blank" href="https://estify.app/">
             <img src="images/estify.gif" width="100%" alt="Estify"/>
         </a>
         <br />
