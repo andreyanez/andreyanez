@@ -16,7 +16,7 @@ Software Engineer focused on Web Development, I am motivated by the power of the
 
 See [my website](https://andreyanez.netlify.app/) for more information!
 
-<h1 align="center">Projects</h1>
+<h1 align="center">My latest work</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
