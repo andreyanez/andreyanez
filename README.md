@@ -57,42 +57,4 @@ See [my website](https://andreyanez.netlify.app/) for more information!
         <p><strong>Nuxt, Algolia, Stripe, TailwindCSS</strong> - Find and register places to live all over the world.</p>
     </td>
   </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Takenote</h3>
-      <br />
-        <a target="_blank" href="https://apptakenote.netlify.app/">
-          <img src="images/takenote.gif" width="100%" alt="Takenote"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/andreyanez/Takenote" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://apptakenote.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Typescript, React, TaildwindCSS</strong> - Markdown-supported note taking app.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Caesar Cipher Generator</h3>
-        <br />
-        <a target="_blank" href="https://cipher-caesar.netlify.app/">
-          <img src="images/caesar.gif" width="100%" alt="Caesar cipher generator"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/andreyanez/Caesar-cipher-generator" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://cipher-caesar.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Nuxt, Vue 3, TaildwindCSS</strong> - A small Nuxt app capable of transform text using the caesar cipher.</p>
-    </td>
-  </tr>
 </table>
