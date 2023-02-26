@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andre</h1>
 
-Software Engineer focused on Web Development, I am motivated by the power of the web as a tool for solving everyday problems.
-
-See [my website](https://andreyanez.netlify.app/) for more information!
+Software Engineer focused on Web Development, motivated by the power of the web as a tool for solving everyday problems.
 
 <p align="center">
   <a href="https://andreyanez.net" target="_blank">
